@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'HUD Regular';
+    src: url('https://fonts.cdnfonts.com/s/7742/04B_19__.woff') format('woff');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: black;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
